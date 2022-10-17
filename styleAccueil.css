@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    background-color: rgba(162, 162, 235, 0.459);
+    border-radius: 25px;
+}
+body{
+    background-image: url(../image/mn.avif);
+    background-size: cover;
+    
+
+}
+a{
+color: rgb(36, 4, 78);
+padding: 20px;
+
+
+}
+h3{
+    color: rgb(18, 18, 19);
+    margin-top: 5%;
+    background-color: rgba(192, 203, 236, 0.582);
+}
