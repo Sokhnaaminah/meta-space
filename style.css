@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2? family= Arimo:wght@600 & display=swap');
+
+.image
+{
+    justify-content: center;
+    justify-items: center;
+}
+.grand h2
+{
+    margin-top: 50px;
+    
+}
+h2
+{
+    font-family: 'Arimo',
+        sans empattement;
+    text-align: center;
+
+    
+}
+
+.image
+{
+    display: flex;
+    justify-content: center;
+    justify-items: auto;
+    
+}
+.image img
+{
+    margin-top: 2rem;
+    object-fit: contain;
+    width: 30%;
+   
+}
+.button {
+    margin-top: 50px;
+    margin-left: 30rem;
+}
+
+.image2 img
+{
+    object-fit: contain;
+    width: 30%;
+}
+.navigation
+{
+    margin-top: 32em;
+}
+img
+{
+    object-fit: contain;
+    width: 30%;
+    margin-left: 10px;
+    position: relative;
+}
+p{
+    text-align: center;
+    font-family: paris;
+}
+footer
+{
+    background-color: antiquewhite;
+    height: 100%;
+    width: 100%;
+}
+.footer
+{
+    display: flex;
+    margin-right: 70px;
+}
+h3
+{
+    text-align: center;
+}
+.h4{
+    margin-right: 100px;
+}
